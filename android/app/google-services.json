@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "469496554647",
+    "project_id": "pericles-flutter",
+    "storage_bucket": "pericles-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469496554647:android:10d8244776fd07b0c1f5d2",
+        "android_client_info": {
+          "package_name": "com.pericles.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469496554647-l8fh0rmb7smev59blm2p6b7f2dkcammo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pericles.www",
+            "certificate_hash": "ce6909e7f548eb73e2e78f5d8c47b7d2eb670487"
+          }
+        },
+        {
+          "client_id": "469496554647-i8ge091k1t2qv3sm210pkj2cbcn33pld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsuxLG-7Kf9V_ReH26OvN-6QgXv5Vbqi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469496554647-i8ge091k1t2qv3sm210pkj2cbcn33pld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469496554647-lvsjcpsbssgdehl21ciieejmtq2n5v43.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hk.com.pericles"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
